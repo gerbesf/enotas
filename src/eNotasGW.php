@@ -1,4 +1,8 @@
 <?php
+
+	// lazy way
+	namespace eNotasGW;
+
 	require('helper.php');
 	
 	require('exceptions/requestException.php');
