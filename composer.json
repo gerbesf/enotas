@@ -1,0 +1,15 @@
+{
+  "name": "gerbesf/enotas",
+  "version": "1.1",
+  "description": "eNotasGW API - Laravel Support",
+  "type": "package",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "mit",
+  "autoload": {
+    "psr-4": {
+      "eNotasGW\\": "src/"
+    }
+  }
+}
